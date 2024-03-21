@@ -4,7 +4,7 @@
 
 - Meu email:kauan.bonifaciode.oliveira@escola.pr.gov.br
 
-- Estou no 1 ano do ensino medio :relaxed:
+- Estou no 3 ano do ensino medio :relaxed:
 
 - Estudo no coligio civico militar marechal rondon :nerd_face:	
 
@@ -18,3 +18,4 @@
 
 <a href = "mailto:kauan.bonifaciode.oliveira@escola.pr.gov.br
 "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+3
